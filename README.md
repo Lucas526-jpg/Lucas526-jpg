@@ -18,7 +18,7 @@ En lugar de tener el texto aquí, las *rooms* completadas están alojados en rep
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
-| **WriteUps-CTF** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Rooms) |
+| **Rooms** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Rooms) |
 
 ---
 
