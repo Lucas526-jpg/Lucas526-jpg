@@ -6,7 +6,7 @@ Hola, soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y e
 
 ## 🚀 Guías de CTF y Write-ups Detallados
 
-En lugar de tener el texto aquí, los *write-ups* completos de los desafíos CTF están alojados en repositorios dedicados. El objetivo de estos documentos es desglosar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario.
+Los *write-ups* completos de los desafíos CTF están alojados en repositorios dedicados. El objetivo de estos documentos es desglosar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario.
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
@@ -14,13 +14,19 @@ En lugar de tener el texto aquí, los *write-ups* completos de los desafíos CTF
 
 ## 🚀 Rooms de THM y HTB realizadas y explicadas
 
-En lugar de tener el texto aquí, las *rooms* completadas están alojados en repositorios dedicados. El objetivo de estos documentos es desglosar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario.
+Las *rooms* completadas están alojados en repositorios dedicados.
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
 | **Rooms** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Rooms) |
 
----
+## 🚀 Cheat sheet
+
+Los *Cheat sheet* estan alojados en repositorios dedicados.
+
+| Repositorio | Descripción | Enlace al Contenido |
+| :--- | :--- | :--- |
+| **Rooms** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Cheat-sheet) |
 
 ## 🛠 Herramientas Favoritas
 
