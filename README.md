@@ -10,7 +10,7 @@ Los *write-ups* completos de los desafíos CTF están alojados en repositorios d
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
-| **WriteUps-CTF** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Writeups-CTF) |
+| **WriteUps-CTF** | Documentación detallada de mis soluciones para desafíos de CTF. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Writeups-CTF) |
 
 ## 🚀 Rooms de THM y HTB realizadas y explicadas
 
@@ -18,7 +18,7 @@ Las *rooms* completadas están alojados en repositorios dedicados.
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
-| **Rooms** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Rooms) |
+| **Rooms** | Documentación detallada de mis soluciones para los Rooms. | [👉 Ir al Repositorio de Rooms](https://github.com/Lucas526-jpg/Rooms) |
 
 ## 🚀 Cheat sheet
 
@@ -26,7 +26,7 @@ Los *Cheat sheet* estan alojados en repositorios dedicados.
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
-| **Rooms** | Documentación detallada de mis soluciones para desafíos de CTF enfocados en vulnerabilidades web (Inyección, LFI, XSS, etc.). | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Cheat-sheet) |
+| **Cheat sheet** | Documentación detallada de los comandos usados para distintos ataques para desafíos de CTF o rooms enfocados en vulnerabilidades web (SQLI, LFI, XSS, etc.). | [👉 Ir al Repositorio de Cheat sheet](https://github.com/Lucas526-jpg/Cheat-sheet) |
 
 ## 🛠 Herramientas Favoritas
 
