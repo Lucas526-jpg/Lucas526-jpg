@@ -18,7 +18,7 @@ Las *rooms* completadas están alojados en repositorios dedicados.
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
-| **Rooms** | Documentación detallada de mis soluciones para los Rooms. | [👉 Ir al Repositorio de Rooms](https://github.com/Lucas526-jpg/Rooms) |
+| **Rooms TryHackMe** | Documentación detallada de mis soluciones para los Rooms. | [👉 Ir al Repositorio de Rooms](https://github.com/Lucas526-jpg/Rooms-TryHackMe) |
 
 ## 🚀 Cheat sheet
 
