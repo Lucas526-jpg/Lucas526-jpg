@@ -10,8 +10,10 @@ Los *write-ups* completos de los desafíos CTF están alojados en repositorios d
 
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
-| **WriteUps-CTF-HTB** | Documentación detallada de mis soluciones para desafíos de CTF en HackTheBox. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-HackTheBox/) |
-| **WriteUps-CTF-Natas** | Documentación sobre mis soluciones para desafíos de Natas. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
+| **HackTheBox** | Documentación detallada de mis soluciones para desafíos de CTF en HackTheBox. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-HackTheBox/) |
+| **OverTheWire-Natas** | Documentación sobre mis soluciones para desafíos de Natas. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
+| **PortsWigger** | Documentación sobre mis soluciones para desafíos de Natas. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
+
 
 ## 🚀 Rooms de THM y HTB realizadas y explicadas
 
