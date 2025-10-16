@@ -11,6 +11,7 @@ Los *write-ups* completos de los desafíos CTF están alojados en repositorios d
 | Repositorio | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
 | **WriteUps-CTF** | Documentación detallada de mis soluciones para desafíos de CTF. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Writeups-CTF) |
+| **WriteUps-CTF-Natas** | Documentación sobre mis soluciones para desafíos de Natas. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
 
 ## 🚀 Rooms de THM y HTB realizadas y explicadas
 
