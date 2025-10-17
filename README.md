@@ -36,9 +36,8 @@ Los *Cheat sheet* estan alojados en repositorios dedicados.
 Mis herramientas esenciales para la fase de reconocimiento y explotación:
 
 * **Burp Suite:** Inspección, manipulación y *fuzzing* del tráfico HTTP/S.
-* **cURL:** Para probar peticiones HTTP falsificadas y scripts rápidos.
 * **nmap:** Escaneo y descubrimiento de servicios de red.
-* **FFuF / Dirb:** Para la fuerza bruta eficiente de directorios y archivos.
+* **Dirb/Gobuster:** Para la fuerza bruta eficiente de directorios y archivos.
 
 ---
 
