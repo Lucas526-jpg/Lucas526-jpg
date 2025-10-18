@@ -43,4 +43,4 @@ Mis herramientas esenciales para la fase de reconocimiento y explotación:
 
 ### 📧 Contacto
 
-[Lucasfrx432@gmail.com] | 
+Correo: [Lucasfrx432@gmail.com] | Linkedin: [https://www.linkedin.com/in/lucas-ocampo-102128264]
