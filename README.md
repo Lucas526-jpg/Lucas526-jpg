@@ -3,7 +3,7 @@
 # 💻 Lucas526-jpg
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%26+Vulnerabilities;CTF+Player;Bienvenido+al+Portafolio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%26+Vulnerabilities;CTF+Player;Bienvenido+al+Portafolio" alt="Typing SVG" />
 </a>
 
 <p>
