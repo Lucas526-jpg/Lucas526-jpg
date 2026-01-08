@@ -1,46 +1,96 @@
-# 💻 Portafolio de Ciberseguridad: Lucas526-jpg
+<div align="center">
 
-Hola, soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y el análisis de vulnerabilidades. Este repositorio funciona como la **página principal de mi portafolio**, centralizando el acceso a mis *write-ups* y los laboratorios completados en diversas plataformas.
+# 💻 Lucas526-jpg
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%26+Vulnerabilities;CTF+Player;Bienvenido+al+Portafolio" alt="Typing SVG" />
+</a>
 
-## 🚀 Guías de CTF y Write-ups Detallados
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-RED_TEAM-BC0202?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-KALI_LINUX-2362C0?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
 
-Los *write-ups* completos de los desafíos CTF están alojados en repositorios dedicados. El objetivo de estos documentos es desglosar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario.
-
-| Repositorio | Descripción | Enlace al Contenido |
-| :--- | :--- | :--- |
-| **HackTheBox** | Documentación detallada de mis soluciones para desafíos de CTF en HackTheBox. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-HackTheBox/) |
-| **OverTheWire-Natas** | Documentación sobre mis soluciones para desafíos de Natas. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
-| **PortsWigger** | Documentación sobre mis soluciones para desafíos de Natas. | [👉 Ir al Repositorio de Write-Ups](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
-
-
-## 🚀 Rooms de THM y HTB realizadas y explicadas
-
-Las *rooms* completadas están alojados en repositorios dedicados.
-
-| Repositorio | Descripción | Enlace al Contenido |
-| :--- | :--- | :--- |
-| **Rooms TryHackMe** | Documentación detallada de mis soluciones para los Rooms. | [👉 Ir al Repositorio de Rooms](https://github.com/Lucas526-jpg/Rooms-TryHackMe) |
-
-## 🚀 Cheat sheet
-
-Los *Cheat sheet* estan alojados en repositorios dedicados.
-
-| Repositorio | Descripción | Enlace al Contenido |
-| :--- | :--- | :--- |
-| **Cheat sheet** | Documentación detallada de los comandos usados para distintos ataques para desafíos de CTF o rooms enfocados en vulnerabilidades web (SQLI, LFI, XSS, etc.). | [👉 Ir al Repositorio de Cheat sheet](https://github.com/Lucas526-jpg/Cheat-sheet) |
-
-## 🛠 Herramientas Favoritas
-
-Mis herramientas esenciales para la fase de reconocimiento y explotación:
-
-* **Burp Suite:** Inspección, manipulación y *fuzzing* del tráfico HTTP/S.
-* **nmap:** Escaneo y descubrimiento de servicios de red.
-* **Dirb/Gobuster:** Para la fuerza bruta eficiente de directorios y archivos.
+</div>
 
 ---
 
-### 📧 Contacto
+## 🚩 Sobre Mí
 
-Correo: [Lucasfrx432@gmail.com] | Linkedin: [www.linkedin.com/in/lucas-francisco-ocampo-102128264]
+Soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y el análisis de vulnerabilidades. Este repositorio funciona como la **página principal de mi portafolio**, centralizando el acceso a mis *write-ups* y los laboratorios completados.
+
+Mi objetivo es desglosar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario, documentando el proceso de aprendizaje continuo.
+
+---
+
+## 🚀 Guías de CTF y Write-ups
+
+Documentación técnica de desafíos resueltos.
+
+| Plataforma | Descripción | Enlace al Contenido |
+| :--- | :--- | :--- |
+| **HackTheBox** | Soluciones detalladas para máquinas y desafíos en HTB. | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-HackTheBox/) |
+| **OverTheWire** | Resolución de los niveles de **Natas** (Server-Side Security). | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
+| **PortSwigger** | Laboratorios de Web Security Academy (SQLi, XSS, etc.). | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
+
+---
+
+## 🎓 Rooms de TryHackMe y HTB
+
+Colección de laboratorios guiados y rutas de aprendizaje.
+
+| Repositorio | Descripción | Enlace |
+| :--- | :--- | :--- |
+| **TryHackMe Rooms** | Documentación y respuestas de rooms completadas. | [👉 **Ir al Repositorio**](https://github.com/Lucas526-jpg/Rooms-TryHackMe) |
+
+---
+
+## 📓 Cheat Sheets & Recursos
+
+Repositorios de consulta rápida y comandos útiles.
+
+| Repositorio | Descripción | Enlace |
+| :--- | :--- | :--- |
+| **Cheat Sheet** | Comandos para ataques web (SQLi, LFI, XSS) y enumeración de sistemas. | [👉 **Ver Cheat Sheet**](https://github.com/Lucas526-jpg/Cheat-sheet) |
+
+---
+
+## 🏆 Rooms Completadas (Logos)
+
+<div align="center">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lucas526.png" alt="TryHackMe Badge" height="110" />
+
+<br><br>
+
+| 💀 SQL Injection | 💀 Linux PrivEsc | 💀 OWASP Top 10 |
+| :---: | :---: | :---: |
+| ![SQLi](https://img.shields.io/badge/ROOM-SQLi_Basics-red?style=flat-square) | ![Linux](https://img.shields.io/badge/ROOM-Linux_Fund-yellow?style=flat-square) | ![OWASP](https://img.shields.io/badge/ROOM-OWASP_10-blue?style=flat-square) |
+
+</div>
+
+---
+
+## 🛠 Arsenal de Herramientas
+
+Herramientas esenciales en mi flujo de trabajo:
+
+<p align="left"> 
+  <code><img height="20" src="https://simpleicons.org/icons/burpsuite.svg" style="filter: invert(56%) sepia(48%) saturate(666%) hue-rotate(329deg) brightness(101%) contrast(96%);"> Burp Suite</code> - Intercepción y Fuzzing Web.<br>
+  <code><img height="20" src="https://simpleicons.org/icons/nmap.svg"> Nmap</code> - Reconocimiento de red.<br>
+  <code><img height="20" src="https://simpleicons.org/icons/kalilinux.svg"> Gobuster</code> - Enumeración de directorios.<br>
+  <code><img height="20" src="https://simpleicons.org/icons/python.svg"> Python</code> - Scripting y Automatización.
+</p>
+
+---
+
+### 📡 Contacto
+
+<p align="center">
+  <a href="mailto:Lucasfrx432@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-francisco-ocampo-102128264">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
