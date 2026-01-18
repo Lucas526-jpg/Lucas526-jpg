@@ -67,6 +67,10 @@ Repositorios de consulta rápida y comandos útiles.
 | :---: | :---: | :---: |
 | ![SQLi](https://img.shields.io/badge/ROOM-SQLi_Basics-red?style=flat-square) | ![Linux](https://img.shields.io/badge/ROOM-Linux_Fund-yellow?style=flat-square) | ![OWASP](https://img.shields.io/badge/ROOM-OWASP_10-blue?style=flat-square) |
 
+| 💀 Introducción al desarrollo web con Blazor |
+| :---: |
+| https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/B9F5MTJD?sharingId=281AFCB97E9CB932| 
+
 </div>
 
 ---
