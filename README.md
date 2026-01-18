@@ -61,6 +61,7 @@ Repositorios de consulta rápida y comandos útiles.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Lucas526.png" alt="TryHackMe Badge" height="110" />
 
+
 <br><br>
 
 | 💀 SQL Injection | 💀 Linux PrivEsc | 💀 OWASP Top 10 |
@@ -69,7 +70,7 @@ Repositorios de consulta rápida y comandos útiles.
 
 | 💀 Introducción al desarrollo web con Blazor |
 | :---: |
-| https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/B9F5MTJD?sharingId=281AFCB97E9CB932| 
+| <img src="https://learn.microsoft.com/training/achievements/intro-to-blazor.svg" alt="Blazor Badge" height="110" />| 
 
 </div>
 
