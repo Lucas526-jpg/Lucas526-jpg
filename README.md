@@ -68,11 +68,13 @@ Repositorios de consulta rápida y comandos útiles.
 | :---: | :---: | :---: |
 | ![SQLi](https://img.shields.io/badge/ROOM-SQLi_Basics-red?style=flat-square) | ![Linux](https://img.shields.io/badge/ROOM-Linux_Fund-yellow?style=flat-square) | ![OWASP](https://img.shields.io/badge/ROOM-OWASP_10-blue?style=flat-square) |
 
-| 💀 Introducción al desarrollo web con Blazor |
+| Introducción al desarrollo web con Blazor |
 | :---: |
-| <img src="https://learn.microsoft.com/training/achievements/intro-to-blazor.svg" alt="Blazor Badge" height="110" />| 
+| <a href="https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/37P4RWGH?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/intro-to-blazor.svg" alt="Blazor Badge" width="120" /></a> |
 
-</div>
+| Compile su primera aplicación web con Blazor |
+| :---: |
+| <a href="https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/37P4RWGH?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/build-your-first-blazor-web-app.svg" alt="Blazor App Badge" width="120" /></a> |
 
 ---
 
