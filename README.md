@@ -80,10 +80,9 @@ Repositorios de consulta rápida y comandos útiles.
 Herramientas esenciales en mi flujo de trabajo:
 
 <p align="left"> 
-  <code><img height="20" src="https://simpleicons.org/icons/burpsuite.svg" style="filter: invert(56%) sepia(48%) saturate(666%) hue-rotate(329deg) brightness(101%) contrast(96%);"> Burp Suite</code> - Intercepción y Fuzzing Web.<br>
-  <code><img height="20" src="https://simpleicons.org/icons/nmap.svg"> Nmap</code> - Reconocimiento de red.<br>
-  <code><img height="20" src="https://simpleicons.org/icons/kalilinux.svg"> Gobuster</code> - Enumeración de directorios.<br>
-  <code><img height="20" src="https://simpleicons.org/icons/python.svg"> Python</code> - Scripting y Automatización.
+<a href="https://skillicons.dev">
+  <img src="[https://skillicons.dev/icons?i=cs,dotnet,linux,kali,bash,mysql,visualstudio,docker,git](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,bootstrap,php,dotnet,linux,bash,mysql,docker,git)" />
+</a>
 </p>
 
 ---
