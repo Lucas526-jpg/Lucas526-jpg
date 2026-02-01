@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33FF00&center=true&vCenter=true&width=600&lines=Ciberseguridad+Ofensiva;Web+Pentesting+%26+Vulnerabilities;CTF+Player;Bienvenido+al+Portafolio" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-RED_TEAM-BC0202?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/OS-KALI_LINUX-2362C0?style=for-the-badge&logo=kalilinux&logoColor=white">
-</p>
-
 </div>
 
 ---
@@ -20,6 +15,24 @@
 Soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y el análisis de vulnerabilidades. Este repositorio funciona como la **página principal de mi portafolio**, enfocado al acceso a mis *write-ups* y los laboratorios completados.
 
 Mi objetivo es explicar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario, documentando el proceso de aprendizaje continuo.
+
+---
+
+<div align="center">
+  <h2>🛠️ Tecnologías y herramientas</h2>
+  
+  <h3>⚙️ Tecnologías principales</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,html,css,bootstrap,dotnet,linux,bash,mysql,docker,git" />
+  </a>
+  
+  <br><br>
+  
+  <h3>⚙️ Tecnologías secundarias</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,php,python" />
+  </a>
+</div>
 
 ---
 
@@ -71,19 +84,6 @@ Repositorios de consulta rápida y comandos útiles.
 | Introducción al desarrollo web con Blazor | Compile su primera aplicación web con Blazor |
 | :---: | :---: |
 | <a href="https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/37P4RWGH?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/intro-to-blazor.svg" alt="Blazor Badge" width="120" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/37P4RWGH?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/build-your-first-blazor-web-app.svg" alt="Blazor App Badge" width="120" /></a> |
-
-
----
-
-## 🛠 Arsenal de Herramientas
-
-Herramientas esenciales en mi flujo de trabajo:
-
-<p align="left"> 
-<a href="https://skillicons.dev">
-  <img src="[https://skillicons.dev/icons?i=cs,dotnet,linux,kali,bash,mysql,visualstudio,docker,git](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,bootstrap,php,dotnet,linux,bash,mysql,docker,git)" />
-</a>
-</p>
 
 ---
 
