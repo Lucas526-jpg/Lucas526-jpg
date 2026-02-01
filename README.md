@@ -17,9 +17,9 @@
 
 ## 🚩 Sobre Mí
 
-Soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y el análisis de vulnerabilidades. Este repositorio funciona como la **página principal de mi portafolio**, centralizando el acceso a mis *write-ups* y los laboratorios completados.
+Soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y el análisis de vulnerabilidades. Este repositorio funciona como la **página principal de mi portafolio**, enfocado al acceso a mis *write-ups* y los laboratorios completados.
 
-Mi objetivo es desglosar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario, documentando el proceso de aprendizaje continuo.
+Mi objetivo es explicar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario, documentando el proceso de aprendizaje continuo.
 
 ---
 
