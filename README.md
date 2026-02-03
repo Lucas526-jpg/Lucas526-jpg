@@ -48,11 +48,10 @@ Documentación técnica de desafíos resueltos.
 
 ---
 
-## 🚀 Guías de creacion de CTF'S y Write-ups
-| Repositorio |
-| :--- |
-| [👉 **Acceder**](https://github.com/Lucas526-jpg/Creacion-de-CTF-S-con-Docker) |
+## 🚀 Guías de Creación de CTFs y Write-ups
+Aprende a desplegar tus propios entornos vulnerables con Docker y Bash.
 
+👉 [**Acceder al Repositorio Principal**](https://github.com/Lucas526-jpg/Creacion-de-CTF-S-con-Docker)
 
 ---
 
