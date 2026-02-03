@@ -48,6 +48,14 @@ Documentación técnica de desafíos resueltos.
 
 ---
 
+## 🚀 Guías de creacion de CTF'S y Write-ups
+| Repositorio |
+| :--- |
+| [👉 **Acceder**](https://github.com/Lucas526-jpg/Creacion-de-CTF-S-con-Docker) |
+
+
+---
+
 ## 🎓 Rooms de TryHackMe y HTB
 
 Colección de laboratorios guiados y rutas de aprendizaje.
