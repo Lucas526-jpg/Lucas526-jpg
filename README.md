@@ -43,21 +43,22 @@ Documentación técnica de desafíos resueltos.
 | Plataforma | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
 | **HackTheBox** | Soluciones detalladas para máquinas y desafíos en HTB. | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-HackTheBox/) |
-| **OverTheWire** | Resolución de los niveles de **Natas** (Server-Side Security). | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
-| **PortSwigger** | Laboratorios de Web Security Academy (SQLi, XSS, etc.). | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
+| **OverTheWire** | Resolución de los niveles de **natas** (overTheWire) | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
+| **PortSwigger** | Laboratorios de Web Security Academy (sqli, xss, etc) | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
+| **DockerLabs🐋** | Maquinas resueltas creadas en docker de dockerlabs | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
 
 ---
 
-## 🚀 Guías de Creación de CTFs y Write-ups
+## 🚀 Guías de creación de ctf's y write-ups
 Aprende a desplegar tus propios entornos vulnerables con Docker y Bash.
 
-👉 [**Acceder al Repositorio Principal**](https://github.com/Lucas526-jpg/Creacion-de-CTF-S-con-Docker)
+👉 [**Acceder al repositorio principal**](https://github.com/Lucas526-jpg/Creacion-de-CTF-S-con-Docker)
 
 ---
 
 ## 🎓 Rooms de TryHackMe y HTB
 
-Colección de laboratorios guiados y rutas de aprendizaje.
+Laboratorios guiados y rutas de aprendizaje
 
 | Repositorio | Descripción | Enlace |
 | :--- | :--- | :--- |
@@ -65,9 +66,9 @@ Colección de laboratorios guiados y rutas de aprendizaje.
 
 ---
 
-## 📓 Cheat Sheets & Recursos
+## 📓 Cheat sheets y comandos
 
-Repositorios de consulta rápida y comandos útiles.
+Repositorios de consulta rápida y comandos útiles
 
 | Repositorio | Descripción | Enlace |
 | :--- | :--- | :--- |
@@ -75,7 +76,7 @@ Repositorios de consulta rápida y comandos útiles.
 
 ---
 
-## 🏆 Rooms Completadas (Logos)
+## 🏆 Rooms completadas
 
 <div align="center">
 
