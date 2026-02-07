@@ -36,9 +36,9 @@ Mi objetivo es explicar la **metodología, herramientas y vulnerabilidades** exp
 
 ---
 
-## 🚀 Guías de CTF y Write-ups
+## 🚀 Guías de ctf's y write-ups
 
-Documentación técnica de desafíos resueltos.
+Documentación técnica de desafíos resueltos
 
 | Plataforma | Descripción | Enlace al Contenido |
 | :--- | :--- | :--- |
