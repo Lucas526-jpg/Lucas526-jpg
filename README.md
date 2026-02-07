@@ -45,7 +45,7 @@ Documentación técnica de desafíos resueltos
 | **HackTheBox** | Soluciones detalladas para máquinas y desafíos en HTB. | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-HackTheBox/) |
 | **OverTheWire** | Resolución de los niveles de **natas** (overTheWire) | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctf-s-Natas) |
 | **PortSwigger** | Laboratorios de Web Security Academy (sqli, xss, etc) | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
-| **DockerLabs🐋** | Maquinas resueltas creadas en docker de dockerlabs | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/Ctfs-PortsWigger-Sqli) |
+| **DockerLabs🐋** | Maquinas resueltas creadas en docker de dockerlabs | [👉 **Ver Write-Ups**](https://github.com/Lucas526-jpg/dockerlabs-ctf-s-write-ups) |
 
 ---
 
