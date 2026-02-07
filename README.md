@@ -10,11 +10,11 @@
 
 ---
 
-## 🚩 Sobre Mí
+## 🚩 Sobre mi
 
-Soy un entusiasta de la **Ciberseguridad** enfocado en la ofensiva web y el análisis de vulnerabilidades. Este repositorio funciona como la **página principal de mi portafolio**, enfocado al acceso a mis *write-ups* y los laboratorios completados.
+Soy un entusiasta de la **ciberseguridad** enfocado en la hacking etico y el análisis de vulnerabilidades.
 
-Mi objetivo es explicar la **metodología, las herramientas y las vulnerabilidades** explotadas en cada escenario, documentando el proceso de aprendizaje continuo.
+Mi objetivo es explicar la **metodología, herramientas y vulnerabilidades** explotadas en cada escenario, documentando el proceso de aprendizaje constante.
 
 ---
 
