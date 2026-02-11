@@ -94,7 +94,7 @@ Repositorios de consulta rápida y comandos útiles
 | 1. Introducción al desarrollo web con Blazor | 2. Compile su primera aplicación web con Blazor | 3. Cree una lista de tareas pendientes con Blazor |
 | :---: | :---: | :---: |
 | <a href="https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/37P4RWGH?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/intro-to-blazor.svg" alt="Blazor Badge" width="120" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/es-es/LucasOcampo-2610/37P4RWGH?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/build-your-first-blazor-web-app.svg" alt="Blazor App Badge" width="120" /></a> | <a href="https://learn.microsoft.com/api/achievements/share/es-mx/LucasOcampo-2610/AKC6ZBQ7?sharingId=281AFCB97E9CB932" target="_blank"><img src="https://learn.microsoft.com/training/achievements/build-your-first-blazor-web-app.svg" alt="Todo List Badge" width="120" /></a> |
-| Enlace al proyecto realizado: -- | [Enlace al proyecto realizado:](https://github.com/Lucas526-jpg/Aprendizaje-en-Blazor/blob/main/Compilacion-de-blazor/Compilacion-de-blazor) | (Enlace al proyecto realizado:)[] |
+| Enlace al proyecto realizado: -- | [Enlace al proyecto realizado](https://github.com/Lucas526-jpg/Aprendizaje-en-Blazor/tree/main/Compilacion-de-blazor#readme) | (Enlace al proyecto realizado)[] |
 
 
 ---
