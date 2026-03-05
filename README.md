@@ -75,15 +75,6 @@ Repositorios de consulta rápida y comandos útiles
 
 <div align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Lucas526.png" alt="TryHackMe Badge" height="110" />
-
-
-<br><br>
-
-| 💀 SQL Injection | 💀 Linux PrivEsc | 💀 OWASP Top 10 |
-| :---: | :---: | :---: |
-| ![SQLi](https://img.shields.io/badge/ROOM-SQLi_Basics-red?style=flat-square) | ![Linux](https://img.shields.io/badge/ROOM-Linux_Fund-yellow?style=flat-square) | ![OWASP](https://img.shields.io/badge/ROOM-OWASP_10-blue?style=flat-square) |
-
 #### Ruta de aprendizaje: Compilación de aplicaciones web con Blazor
 
 | 1. Introducción al desarrollo web con Blazor | 2. Compile su primera aplicación web con Blazor | 3. Cree una lista de tareas pendientes con Blazor |
